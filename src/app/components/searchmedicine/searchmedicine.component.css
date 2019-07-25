@@ -1,0 +1,8 @@
+#parent{
+    border: 2px solid green;
+    margin: 3px;
+    padding: 3px;
+}
+.div-center{
+    text-align: center;
+}
